@@ -1,0 +1,9 @@
+Code-Review+2: Darja Shakhray <damalyavkina@gmail.com>
+Code-Review+2: Mike Fedosin <mfedosin@gmail.com>
+Workflow+1: Mike Fedosin <mfedosin@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sun, 23 Oct 2016 21:05:28 +0000
+Reviewed-on: https://review.openstack.org/382028
+Project: openstack/glare-specs
+Branch: refs/heads/master
