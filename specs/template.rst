@@ -136,7 +136,7 @@ is either added or changed should have the following:
   think about when defining their policy.
 
 Example JSON schema definitions can be found in the Glare tree
-http://git.openstack.org/cgit/openstack/glare/tree/glare/tests/functional/test_schemas.py
+https://git.openstack.org/cgit/openstack/glare/tree/glare/tests/functional/test_schemas.py
 
 Note that the schema should be defined as restrictively as
 possible. Parameters which are required should be marked as such and
